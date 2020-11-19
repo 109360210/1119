@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+c:\users\09757\desktop\109360210_張晏笙\5.28\source\main.c(8): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+  c:\users\09757\desktop\109360210_張晏笙\5.28\source\main.c(8): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  c:\users\09757\desktop\109360210_張晏笙\5.28\source\main.c(8): note: 缺少 variadic 引數 2 (其為格式字串 '%c' 所需)
+  c:\users\09757\desktop\109360210_張晏笙\5.28\source\main.c(8): note: 此引數可用為緩衝區大小
+c:\users\09757\desktop\109360210_張晏笙\5.28\source\main.c(10): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+c:\users\09757\desktop\109360210_張晏笙\5.28\source\main.c(50): warning C4715: 'fun': 不是所有控制路徑都傳回值
+  5.28.vcxproj -> C:\Users\09757\Desktop\109360210_張晏笙\5.28\5.28\5.28\..\..\temp\debug\5.28.exe
